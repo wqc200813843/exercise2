@@ -1,2 +1,5 @@
-language:node_js
-script:true
+language: node_js
+node_js:
+  - "node"
+  - "8.9.4"
+script: true
